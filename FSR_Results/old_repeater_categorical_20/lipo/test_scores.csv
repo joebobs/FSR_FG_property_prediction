@@ -1,0 +1,3 @@
+Task,Mean rmse,Standard deviation rmse,Fold 0 rmse,Fold 1 rmse,Fold 2 rmse,Fold 3 rmse,Fold 4 rmse,Mean mae,Standard deviation mae,Fold 0 mae,Fold 1 mae,Fold 2 mae,Fold 3 mae,Fold 4 mae
+,,,,,,,,,,,,,,
+lipo,1.210180306,0.041248478,1.173178312,1.19876669,1.258494014,1.258571442,1.161891072,0.980481002,0.03525483,0.94602947,0.968414175,1.013665454,1.030112445,0.944183468

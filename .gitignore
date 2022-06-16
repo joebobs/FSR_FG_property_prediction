@@ -1,0 +1,11 @@
+__pycache__/
+wandb/
+Code_pre_multiprocess/
+.ipynb_checkpoints/
+backup_file_reconstruction/
+backup_configs_nd_files/
+test_results/
+gunaggs_original/
+Data/
+
+*.pt
