@@ -12,5 +12,4 @@ The FSR_model_recon used the nn_config_recon file to produce partially pretraine
 Use the file feature_generator.ipynb, a jupyter notebook to produce features for datasets
 The file also has the code to create the one hot encoder and the min-max_scaler used in another part of the code
 
-A requirements.txt file and the complete data required will be uploaded shortly
-The file paths are mostly absolute, so change that to your local system path before proceeding.
+The file paths are absolute, so change that to your local system path before proceeding.
